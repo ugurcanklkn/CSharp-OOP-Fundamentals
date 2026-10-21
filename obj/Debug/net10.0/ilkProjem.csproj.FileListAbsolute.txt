@@ -1,0 +1,15 @@
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\bin\Debug\net10.0\ilkProjem.exe
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\bin\Debug\net10.0\ilkProjem.deps.json
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\bin\Debug\net10.0\ilkProjem.runtimeconfig.json
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\bin\Debug\net10.0\ilkProjem.dll
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\bin\Debug\net10.0\ilkProjem.pdb
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\obj\Debug\net10.0\ilkProjem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\obj\Debug\net10.0\ilkProjem.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\obj\Debug\net10.0\ilkProjem.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\obj\Debug\net10.0\ilkProjem.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\obj\Debug\net10.0\ilkProjem.dll
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\obj\Debug\net10.0\refint\ilkProjem.dll
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\obj\Debug\net10.0\ilkProjem.pdb
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\obj\Debug\net10.0\ilkProjem.genruntimeconfig.cache
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\obj\Debug\net10.0\ref\ilkProjem.dll
+C:\Users\ugurc\source\repos\ilkProjem\ilkProjem\obj\Debug\net10.0\ilkProjem.csproj.Up2Date
